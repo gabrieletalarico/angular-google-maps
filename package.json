@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "agm14",
   "version": "3.0.0-beta.1",
   "description": "Angular components for Google Maps",
   "repository": {
